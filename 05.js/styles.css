@@ -1,0 +1,15 @@
+div {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  background-color: #000ff0;
+  margin: 10px;
+}
+
+.styleDiv {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  background-color: #008000;
+  margin: 10px;
+}
